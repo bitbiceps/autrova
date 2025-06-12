@@ -13,7 +13,7 @@ const HeroSection = () => {
 
           {/* Click-to-call Button */}
           <a
-            href="tel:+18001234567"
+            href="tel:+18887685178"
             className="inline-block bg-orange-600 hover:bg-orange-700 text-white px-8 py-4 rounded-full text-base font-medium transition"
           >
             📞 Call Now
