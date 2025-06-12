@@ -3,7 +3,7 @@ const Terms = () => {
     <div className="min-h-screen bg-white px-6 py-10 text-gray-800 max-w-3xl mx-auto">
       <h1 className="text-3xl font-bold mb-6">Terms and Conditions</h1>
       <p className="mb-4">
-        Welcome to CarRentals.com. By accessing or using our services, you agree
+        Welcome to AutRova.com. By accessing or using our services, you agree
         to be bound by these Terms and Conditions.
       </p>
 

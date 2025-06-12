@@ -27,8 +27,8 @@ const SignInPage = () => {
     <div className="flex items-center justify-center min-h-screen bg-white px-4">
       <div className="w-full max-w-sm border border-gray-300 rounded-lg shadow-md pt-6 px-6 pb-8">
         <div className="flex justify-center mb-2">
-          <span className="text-[22px] font-bold text-[#f16821]">Car</span>
-          <span className="text-[22px] font-bold text-black">Rentals</span>
+          <span className="text-[22px] font-bold text-[#f16821]">Aut</span>
+          <span className="text-[22px] font-bold text-black">Rova</span>
           <span className="text-xs text-gray-500 ml-1">.com</span>
         </div>
         <div className="flex justify-center -mt-1 mb-5">

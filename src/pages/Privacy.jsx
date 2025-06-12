@@ -6,7 +6,7 @@ const PrivacyPolicy = () => {
       <h1 className="text-5xl font-bold mb-10 text-center">Privacy Policy</h1>
       <p className="mb-6">
         Your privacy is important to us. This Privacy Policy explains how
-        CarRentals.com collects, uses, and protects your personal information.
+        Autrova.com collects, uses, and protects your personal information.
       </p>
 
       <h2 className="text-2xl font-semibold mt-10 mb-4">

@@ -5,7 +5,7 @@ const Header = () => (
   <header className="flex justify-between items-center px-6 py-4 shadow">
     {/* Logo */}
     <Link to="/" className="text-2xl font-bold text-orange-600">
-      Car<span className="text-gray-700">Rentals</span>
+      Aut<span className="text-gray-700">Rova</span>
       <span className="text-sm text-gray-400">.com</span>
     </Link>
 
