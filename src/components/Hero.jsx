@@ -7,10 +7,10 @@ const HeroSection = () => {
           <div className="text-3xl font-bold mb-4 text-white">
             <div>Cheap Car Rentals</div>
             <a
-              href="tel:+18887685178"
+              href="tel:+18557616979"
               className="inline-block text-white px-2 text-base font-medium transition bg-black/40 backdrop-blur-sm "
             >
-              📞 +1-888-768-5178
+              📞 +1-855-761-6979
             </a>
           </div>
           <p className="text-white text-sm mb-6 max-w-xl mx-auto bg-black/40 backdrop-blur-sm ">
@@ -20,7 +20,7 @@ const HeroSection = () => {
 
           {/* Click-to-call Button */}
           <a
-            href="tel:+18887685178"
+            href="tel:+18557616979"
             className="inline-block bg-orange-600 hover:bg-orange-700 text-white px-8 py-4 rounded-full text-base font-medium transition"
           >
             Call Now
